@@ -35,9 +35,7 @@ The clock should appear along with the stylish heading.
 Feel free to customize the project to your liking. You can modify the heading text, styles, or even add more features. The style.css file contains various styling options, and the script.js file handles the clock's functionality.
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+HTML | CSS | JavaScript
 
 ## License
 This project is licensed under the MIT License.
